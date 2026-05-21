@@ -1,4 +1,4 @@
-# Rain Prediction Dashboard
+# Wether Prediction Dashboard
 
 ## Призначення проєкту
 
